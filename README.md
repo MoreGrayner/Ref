@@ -2,6 +2,8 @@
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.20-7F52FF.svg?logo=kotlin)](https://kotlinlang.org/)
 [![Coroutines](https://img.shields.io/badge/Coroutines-1.8.1-blue.svg?logo=kotlin)](https://github.com/Kotlin/kotlinx.coroutines)
+[![Gradle](https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle)](https://gradle.org)
+
 
 ### 다중 상태 관리 지원 라이브러리
 
