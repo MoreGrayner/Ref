@@ -1,5 +1,5 @@
 @file:OptIn(ExperimentalCoroutinesApi::class, DelicateCoroutinesApi::class, FlowPreview::class)
-package io.github.moregrayner.flowx
+package io.github.moregrayner.flowx.io.github.moregrayner.flowx
 
 import kotlinx.coroutines.*
 import kotlinx.coroutines.channels.BufferOverflow
